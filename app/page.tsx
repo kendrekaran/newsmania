@@ -18,7 +18,7 @@ export default function Home() {
             By John Smith | Published: October 15, 2023
           </div>
 
-          <Image
+          <img
             src="https://placekitten.com/800/400"
             alt="Illustration of trees"
             width={800}
