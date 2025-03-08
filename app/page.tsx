@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="min-h-screen p-8 max-w-4xl mx-auto">
@@ -36,12 +34,12 @@ export default function Home() {
           <p className="mb-4">
             Dr. Emma Richardson, lead researcher on the project, claims that these trees 
             can provide internet speeds of up to 500 Mbps within a radius of 100 meters. 
-            "This is nature's own router system," she explained during the press conference.
+            &ldquo;This is nature&apos;s own router system,&rdquo; she explained during the press conference.
           </p>
 
           <blockquote className="border-l-4 border-gray-300 pl-4 italic my-4">
-            "We've observed these trees establishing their own network, communicating with 
-            each other and sharing bandwidth. It's unlike anything we've ever seen before," 
+            &ldquo;We&apos;ve observed these trees establishing their own network, communicating with 
+            each other and sharing bandwidth. It&apos;s unlike anything we&apos;ve ever seen before,&rdquo; 
             - Dr. Emma Richardson
           </blockquote>
 
