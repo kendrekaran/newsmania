@@ -9,53 +9,44 @@ export default function Home() {
       <main className="space-y-6">
         <article className="prose lg:prose-xl">
           <h2 className="text-2xl font-bold mb-4">
-            Scientists Discover Trees That Emit Wi-Fi Signals
+            Scientists Develop Pill That Reverses Aging by 20 Years
           </h2>
           
           <div className="text-gray-500 mb-4">
-            By John Smith | Published: October 15, 2023
+            By Dr. Alex Monroe | Published: March 9, 2025
           </div>
 
           <img
             src="https://placekitten.com/800/400"
-            alt="Illustration of trees"
+            alt="Illustration of anti-aging pill"
             width={800}
             height={400}
             className="rounded-lg mb-6"
           />
 
           <p className="mb-4">
-            In a groundbreaking discovery, scientists at the Institute of Botanical Technology 
-            have identified a new species of trees that naturally emit Wi-Fi signals. These 
-            remarkable trees, found in remote forests of Northern Europe, are being hailed as 
-            a potential solution to global internet connectivity issues.
+            A team of researchers at the Global Institute for Longevity has announced the creation of a groundbreaking pill that can effectively reverse aging by up to 20 years. The drug, known as Rejuva-X, works by triggering dormant stem cells and accelerating cellular repair mechanisms.
           </p>
 
           <p className="mb-4">
-            Dr. Emma Richardson, lead researcher on the project, claims that these trees 
-            can provide internet speeds of up to 500 Mbps within a radius of 100 meters. 
-            &ldquo;This is nature&apos;s own router system,&rdquo; she explained during the press conference.
+            Clinical trials conducted on over 1,000 participants showed astonishing results. Within three months, test subjects experienced improved skin elasticity, enhanced cognitive function, and even the restoration of previously graying hair to its original color.
           </p>
 
           <blockquote className="border-l-4 border-gray-300 pl-4 italic my-4">
-            &ldquo;We&apos;ve observed these trees establishing their own network, communicating with 
-            each other and sharing bandwidth. It&apos;s unlike anything we&apos;ve ever seen before,&rdquo; 
-            - Dr. Emma Richardson
+            &ldquo;For the first time in human history, we are witnessing true age reversal at a cellular level. This could redefine the concept of aging itself.&rdquo; - Dr. Linda Patterson, Chief Biochemist
           </blockquote>
 
           <p className="mb-4">
-            Tech companies are already showing interest in cultivating these trees in urban 
-            areas, with plans to replace traditional Wi-Fi infrastructure with these 
-            natural alternatives by 2025.
+            The FDA is currently fast-tracking the approval process, and pharmaceutical companies are racing to secure production rights. Experts predict that Rejuva-X could be available to the public by early 2026, with an estimated price tag of $5,000 per treatment cycle.
           </p>
 
           <div className="bg-gray-100 p-4 rounded-lg mt-6">
             <h3 className="font-bold mb-2">Key Facts:</h3>
             <ul className="list-disc pl-5">
-              <li>Trees emit 5G-compatible signals</li>
-              <li>No electricity required</li>
-              <li>Signal strength increases during photosynthesis</li>
-              <li>Expected to revolutionize rural internet access</li>
+              <li>Reverses biological age by up to 20 years</li>
+              <li>No major side effects reported in trials</li>
+              <li>Expected to increase average lifespan significantly</li>
+              <li>Projected market launch: 2026</li>
             </ul>
           </div>
         </article>
