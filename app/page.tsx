@@ -33,7 +33,7 @@ export default function Home() {
           </p>
 
           <blockquote className="border-l-4 border-gray-300 pl-4 italic my-4">
-            &ldquo;We couldn't believe it. We were mourning his death, and suddenly he was alive and speaking!&rdquo; - Maria Ramirez, daughter of the man
+            &ldquo;We couldn t believe it. We were mourning his death, and suddenly he was alive and speaking!&rdquo; - Maria Ramirez, daughter of the man
           </blockquote>
 
           <p className="mb-4">
