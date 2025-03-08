@@ -37,7 +37,7 @@ export default function Home() {
           </blockquote>
 
           <p className="mb-4">
-            Legal experts are calling this case one of the most bizarre inheritance disputes in history, with some questioning whether more hidden royal heirs could still be undiscovered. Reynolds has since relocated to Austria and begun restoring what he claims to be his family's ancestral estate, despite ongoing legal challenges.
+            Legal experts are calling this case one of the most bizarre inheritance disputes in history, with some questioning whether more hidden royal heirs could still be undiscovered. Reynolds has since relocated to Austria and begun restoring what he claims to be his familys ancestral estate, despite ongoing legal challenges.
           </p>
 
           <div className="bg-gray-100 p-4 rounded-lg mt-6">
