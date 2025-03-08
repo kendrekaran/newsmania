@@ -9,44 +9,44 @@ export default function Home() {
       <main className="space-y-6">
         <article className="prose lg:prose-xl">
           <h2 className="text-2xl font-bold mb-4">
-            Scientists Develop Pill That Reverses Aging by 20 Years
+            Mystery Billionaire Buys Entire Small Town and Declares It a Private Paradise
           </h2>
           
           <div className="text-gray-500 mb-4">
-            By Dr. Alex Monroe | Published: March 9, 2025
+            By James Carter | Published: March 9, 2025
           </div>
 
           <img
             src="https://placekitten.com/800/400"
-            alt="Illustration of anti-aging pill"
+            alt="Illustration of a private town"
             width={800}
             height={400}
             className="rounded-lg mb-6"
           />
 
           <p className="mb-4">
-            A team of researchers at the Global Institute for Longevity has announced the creation of a groundbreaking pill that can effectively reverse aging by up to 20 years. The drug, known as Rejuva-X, works by triggering dormant stem cells and accelerating cellular repair mechanisms.
+            In an unprecedented real estate move, an anonymous billionaire has purchased the entire town of Brookhaven, a small but charming community in Colorado. Residents were offered buyouts that far exceeded their property values, leading many to accept the offer without hesitation.
           </p>
 
           <p className="mb-4">
-            Clinical trials conducted on over 1,000 participants showed astonishing results. Within three months, test subjects experienced improved skin elasticity, enhanced cognitive function, and even the restoration of previously graying hair to its original color.
+            Sources claim that the new owner has plans to transform Brookhaven into a private paradise, complete with luxury resorts, high-end shopping districts, and an invite-only residency program. Rumors suggest that A-list celebrities and top executives are already in talks to secure spots in this exclusive enclave.
           </p>
 
           <blockquote className="border-l-4 border-gray-300 pl-4 italic my-4">
-            &ldquo;For the first time in human history, we are witnessing true age reversal at a cellular level. This could redefine the concept of aging itself.&rdquo; - Dr. Linda Patterson, Chief Biochemist
+            &ldquo;This is unlike anything we've seen before. A billionaire turning an entire town into their own personal utopia? It’s something straight out of a movie.&rdquo; - Real Estate Analyst, Mark Reynolds
           </blockquote>
 
           <p className="mb-4">
-            The FDA is currently fast-tracking the approval process, and pharmaceutical companies are racing to secure production rights. Experts predict that Rejuva-X could be available to the public by early 2026, with an estimated price tag of $5,000 per treatment cycle.
+            While some former residents are excited about their financial windfalls, others are concerned about what this means for small-town America. Legal experts are debating whether private ownership of an entire town raises ethical and governance concerns.
           </p>
 
           <div className="bg-gray-100 p-4 rounded-lg mt-6">
             <h3 className="font-bold mb-2">Key Facts:</h3>
             <ul className="list-disc pl-5">
-              <li>Reverses biological age by up to 20 years</li>
-              <li>No major side effects reported in trials</li>
-              <li>Expected to increase average lifespan significantly</li>
-              <li>Projected market launch: 2026</li>
+              <li>Brookhaven's estimated worth was $200 million before the purchase</li>
+              <li>New owner remains anonymous, fueling speculation</li>
+              <li>Plans include high-security gated access and private economy</li>
+              <li>Expected completion date: 2027</li>
             </ul>
           </div>
         </article>
